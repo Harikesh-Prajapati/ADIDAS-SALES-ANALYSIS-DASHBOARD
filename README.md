@@ -6,6 +6,8 @@ In this project, I will show the growth of the Adidas brand, highlighting its sa
 ## 📊 Adidas Sales Analysis Dashboard ##
 This repository contains a dynamic and insightful Sales Analysis Dashboard for Adidas, built using Power BI. It provides a deep dive into sales metrics, profit margins, regional performance, and more — helping stakeholders quickly grasp key trends and make informed decisions.
 
+![Image](https://github.com/user-attachments/assets/83e501c0-4d8b-4214-84ed-40b44548ec34)
+
 ---
 
 ## 🖼️ Dashboard Preview ##
